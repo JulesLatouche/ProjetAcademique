@@ -1,0 +1,344 @@
+SERVEUR_LANCE
+DEBUG_TEST
+PARTIE_START id=1
+JOUEUR id=1 type=humain
+JOUEUR id=2 type=robot
+TOUR num=1
+DEMANDER_CARTE joueur=1 time=56296643
+REPONSE_CARTE joueur=1 time=56301302
+JOUE joueur=1 carte=25 boeufs=2
+DEMANDER_CARTE joueur=2 time=56301302
+REPONSE_CARTE joueur=2 time=56301302
+JOUE joueur=2 carte=9 boeufs=1
+SCORE joueur=1 total=0
+SCORE joueur=2 total=0
+TOUR num=2
+DEMANDER_CARTE joueur=1 time=56301302
+REPONSE_CARTE joueur=1 time=56302040
+JOUE joueur=1 carte=99 boeufs=5
+DEMANDER_CARTE joueur=2 time=56302041
+REPONSE_CARTE joueur=2 time=56302041
+JOUE joueur=2 carte=26 boeufs=1
+SCORE joueur=1 total=0
+SCORE joueur=2 total=0
+TOUR num=3
+DEMANDER_CARTE joueur=1 time=56302041
+REPONSE_CARTE joueur=1 time=56302688
+JOUE joueur=1 carte=63 boeufs=1
+DEMANDER_CARTE joueur=2 time=56302688
+REPONSE_CARTE joueur=2 time=56302688
+JOUE joueur=2 carte=103 boeufs=1
+SCORE joueur=1 total=0
+SCORE joueur=2 total=0
+TOUR num=4
+DEMANDER_CARTE joueur=1 time=56302689
+REPONSE_CARTE joueur=1 time=56303390
+JOUE joueur=1 carte=95 boeufs=2
+DEMANDER_CARTE joueur=2 time=56303390
+REPONSE_CARTE joueur=2 time=56303390
+JOUE joueur=2 carte=30 boeufs=3
+SCORE joueur=1 total=0
+SCORE joueur=2 total=0
+TOUR num=5
+DEMANDER_CARTE joueur=1 time=56303390
+REPONSE_CARTE joueur=1 time=56304091
+JOUE joueur=1 carte=36 boeufs=1
+DEMANDER_CARTE joueur=2 time=56304091
+REPONSE_CARTE joueur=2 time=56304091
+JOUE joueur=2 carte=33 boeufs=5
+SCORE joueur=1 total=12
+SCORE joueur=2 total=0
+TOUR num=6
+DEMANDER_CARTE joueur=1 time=56304092
+REPONSE_CARTE joueur=1 time=56305053
+JOUE joueur=1 carte=10 boeufs=3
+DEMANDER_CARTE joueur=2 time=56305053
+REPONSE_CARTE joueur=2 time=56305053
+JOUE joueur=2 carte=38 boeufs=1
+SCORE joueur=1 total=12
+SCORE joueur=2 total=0
+TOUR num=7
+DEMANDER_CARTE joueur=1 time=56305053
+REPONSE_CARTE joueur=1 time=56305734
+JOUE joueur=1 carte=68 boeufs=1
+DEMANDER_CARTE joueur=2 time=56305734
+REPONSE_CARTE joueur=2 time=56305734
+JOUE joueur=2 carte=24 boeufs=1
+SCORE joueur=1 total=12
+SCORE joueur=2 total=0
+TOUR num=8
+DEMANDER_CARTE joueur=1 time=56305734
+REPONSE_CARTE joueur=1 time=56306452
+JOUE joueur=1 carte=51 boeufs=1
+DEMANDER_CARTE joueur=2 time=56306452
+REPONSE_CARTE joueur=2 time=56306452
+JOUE joueur=2 carte=74 boeufs=1
+SCORE joueur=1 total=12
+SCORE joueur=2 total=0
+TOUR num=9
+DEMANDER_CARTE joueur=1 time=56306452
+REPONSE_CARTE joueur=1 time=56307222
+JOUE joueur=1 carte=70 boeufs=3
+DEMANDER_CARTE joueur=2 time=56307222
+REPONSE_CARTE joueur=2 time=56307222
+JOUE joueur=2 carte=53 boeufs=1
+SCORE joueur=1 total=12
+SCORE joueur=2 total=7
+DEBUG_TEST
+PARTIE_START id=1
+JOUEUR id=1 type=humain
+JOUEUR id=2 type=robot
+TOUR num=1
+DEMANDER_CARTE joueur=1 time=56307222
+REPONSE_CARTE joueur=1 time=56308022
+JOUE joueur=1 carte=31 boeufs=1
+DEMANDER_CARTE joueur=2 time=56308022
+REPONSE_CARTE joueur=2 time=56308022
+JOUE joueur=2 carte=94 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=7
+TOUR num=2
+DEMANDER_CARTE joueur=1 time=56309106
+REPONSE_CARTE joueur=1 time=56309890
+JOUE joueur=1 carte=87 boeufs=1
+DEMANDER_CARTE joueur=2 time=56309890
+REPONSE_CARTE joueur=2 time=56309890
+JOUE joueur=2 carte=46 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=7
+TOUR num=3
+DEMANDER_CARTE joueur=1 time=56309890
+REPONSE_CARTE joueur=1 time=56310605
+JOUE joueur=1 carte=66 boeufs=5
+DEMANDER_CARTE joueur=2 time=56310605
+REPONSE_CARTE joueur=2 time=56310605
+JOUE joueur=2 carte=54 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=7
+TOUR num=4
+DEMANDER_CARTE joueur=1 time=56310605
+REPONSE_CARTE joueur=1 time=56311322
+JOUE joueur=1 carte=69 boeufs=1
+DEMANDER_CARTE joueur=2 time=56311322
+REPONSE_CARTE joueur=2 time=56311322
+JOUE joueur=2 carte=72 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=16
+TOUR num=5
+DEMANDER_CARTE joueur=1 time=56311322
+REPONSE_CARTE joueur=1 time=56312112
+JOUE joueur=1 carte=77 boeufs=5
+DEMANDER_CARTE joueur=2 time=56312112
+REPONSE_CARTE joueur=2 time=56312112
+JOUE joueur=2 carte=86 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=16
+TOUR num=6
+DEMANDER_CARTE joueur=1 time=56312112
+REPONSE_CARTE joueur=1 time=56312867
+JOUE joueur=1 carte=101 boeufs=1
+DEMANDER_CARTE joueur=2 time=56312867
+REPONSE_CARTE joueur=2 time=56312867
+JOUE joueur=2 carte=56 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=16
+TOUR num=7
+DEMANDER_CARTE joueur=1 time=56312867
+REPONSE_CARTE joueur=1 time=56313564
+JOUE joueur=1 carte=78 boeufs=1
+DEMANDER_CARTE joueur=2 time=56313564
+REPONSE_CARTE joueur=2 time=56313564
+JOUE joueur=2 carte=62 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=16
+TOUR num=8
+DEMANDER_CARTE joueur=1 time=56313564
+REPONSE_CARTE joueur=1 time=56314317
+JOUE joueur=1 carte=17 boeufs=1
+DEMANDER_CARTE joueur=2 time=56314317
+REPONSE_CARTE joueur=2 time=56314317
+JOUE joueur=2 carte=8 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=18
+TOUR num=9
+DEMANDER_CARTE joueur=1 time=56314317
+REPONSE_CARTE joueur=1 time=56315096
+JOUE joueur=1 carte=90 boeufs=3
+DEMANDER_CARTE joueur=2 time=56315096
+REPONSE_CARTE joueur=2 time=56315096
+JOUE joueur=2 carte=28 boeufs=1
+SCORE joueur=1 total=13
+SCORE joueur=2 total=18
+PARTIE_END gagnant=1 avec le score de 13
+SERVEUR_LANCE
+DEBUG_TEST
+PARTIE_START id=1
+JOUEUR id=1 type=humain
+JOUEUR id=2 type=robot
+TOUR num=1
+DEMANDER_CARTE joueur=1 time=56348665
+REPONSE_CARTE joueur=1 time=56350716
+JOUE joueur=1 carte=13 boeufs=1
+DEMANDER_CARTE joueur=2 time=56350717
+REPONSE_CARTE joueur=2 time=56350717
+JOUE joueur=2 carte=45 boeufs=2
+SCORE joueur=1 total=1
+SCORE joueur=2 total=0
+TOUR num=2
+DEMANDER_CARTE joueur=1 time=56351383
+REPONSE_CARTE joueur=1 time=56352102
+JOUE joueur=1 carte=53 boeufs=1
+DEMANDER_CARTE joueur=2 time=56352102
+REPONSE_CARTE joueur=2 time=56352102
+JOUE joueur=2 carte=22 boeufs=5
+SCORE joueur=1 total=1
+SCORE joueur=2 total=0
+TOUR num=3
+DEMANDER_CARTE joueur=1 time=56352102
+REPONSE_CARTE joueur=1 time=56352786
+JOUE joueur=1 carte=71 boeufs=1
+DEMANDER_CARTE joueur=2 time=56352786
+REPONSE_CARTE joueur=2 time=56352786
+JOUE joueur=2 carte=79 boeufs=1
+SCORE joueur=1 total=1
+SCORE joueur=2 total=0
+TOUR num=4
+DEMANDER_CARTE joueur=1 time=56352786
+REPONSE_CARTE joueur=1 time=56353495
+JOUE joueur=1 carte=27 boeufs=1
+DEMANDER_CARTE joueur=2 time=56353495
+REPONSE_CARTE joueur=2 time=56353495
+JOUE joueur=2 carte=87 boeufs=1
+SCORE joueur=1 total=1
+SCORE joueur=2 total=0
+TOUR num=5
+DEMANDER_CARTE joueur=1 time=56353495
+REPONSE_CARTE joueur=1 time=56354209
+JOUE joueur=1 carte=77 boeufs=5
+DEMANDER_CARTE joueur=2 time=56354209
+REPONSE_CARTE joueur=2 time=56354209
+JOUE joueur=2 carte=90 boeufs=3
+SCORE joueur=1 total=1
+SCORE joueur=2 total=0
+TOUR num=6
+DEMANDER_CARTE joueur=1 time=56354209
+REPONSE_CARTE joueur=1 time=56354931
+JOUE joueur=1 carte=49 boeufs=1
+DEMANDER_CARTE joueur=2 time=56354931
+REPONSE_CARTE joueur=2 time=56354931
+JOUE joueur=2 carte=65 boeufs=2
+SCORE joueur=1 total=1
+SCORE joueur=2 total=0
+TOUR num=7
+DEMANDER_CARTE joueur=1 time=56354931
+REPONSE_CARTE joueur=1 time=56355700
+JOUE joueur=1 carte=98 boeufs=1
+DEMANDER_CARTE joueur=2 time=56355700
+REPONSE_CARTE joueur=2 time=56355700
+JOUE joueur=2 carte=66 boeufs=5
+SCORE joueur=1 total=10
+SCORE joueur=2 total=11
+TOUR num=8
+DEMANDER_CARTE joueur=1 time=56355701
+REPONSE_CARTE joueur=1 time=56356472
+JOUE joueur=1 carte=81 boeufs=1
+DEMANDER_CARTE joueur=2 time=56356473
+REPONSE_CARTE joueur=2 time=56356473
+JOUE joueur=2 carte=3 boeufs=1
+SCORE joueur=1 total=10
+SCORE joueur=2 total=12
+TOUR num=9
+DEMANDER_CARTE joueur=1 time=56356473
+REPONSE_CARTE joueur=1 time=56357392
+JOUE joueur=1 carte=88 boeufs=5
+DEMANDER_CARTE joueur=2 time=56357392
+REPONSE_CARTE joueur=2 time=56357392
+JOUE joueur=2 carte=9 boeufs=1
+SCORE joueur=1 total=22
+SCORE joueur=2 total=12
+DEBUG_TEST
+PARTIE_START id=1
+JOUEUR id=1 type=humain
+JOUEUR id=2 type=robot
+TOUR num=1
+DEMANDER_CARTE joueur=1 time=56357393
+REPONSE_CARTE joueur=1 time=56358559
+JOUE joueur=1 carte=12 boeufs=1
+DEMANDER_CARTE joueur=2 time=56358559
+REPONSE_CARTE joueur=2 time=56358559
+JOUE joueur=2 carte=90 boeufs=3
+SCORE joueur=1 total=23
+SCORE joueur=2 total=12
+TOUR num=2
+DEMANDER_CARTE joueur=1 time=56359364
+REPONSE_CARTE joueur=1 time=56360270
+JOUE joueur=1 carte=28 boeufs=1
+DEMANDER_CARTE joueur=2 time=56360270
+REPONSE_CARTE joueur=2 time=56360270
+JOUE joueur=2 carte=74 boeufs=1
+SCORE joueur=1 total=23
+SCORE joueur=2 total=12
+TOUR num=3
+DEMANDER_CARTE joueur=1 time=56360270
+REPONSE_CARTE joueur=1 time=56361076
+JOUE joueur=1 carte=66 boeufs=5
+DEMANDER_CARTE joueur=2 time=56361076
+REPONSE_CARTE joueur=2 time=56361076
+JOUE joueur=2 carte=75 boeufs=2
+SCORE joueur=1 total=23
+SCORE joueur=2 total=12
+TOUR num=4
+DEMANDER_CARTE joueur=1 time=56361076
+REPONSE_CARTE joueur=1 time=56361840
+JOUE joueur=1 carte=51 boeufs=1
+DEMANDER_CARTE joueur=2 time=56361840
+REPONSE_CARTE joueur=2 time=56361840
+JOUE joueur=2 carte=97 boeufs=1
+SCORE joueur=1 total=30
+SCORE joueur=2 total=12
+TOUR num=5
+DEMANDER_CARTE joueur=1 time=56362671
+REPONSE_CARTE joueur=1 time=56363423
+JOUE joueur=1 carte=42 boeufs=1
+DEMANDER_CARTE joueur=2 time=56363423
+REPONSE_CARTE joueur=2 time=56363423
+JOUE joueur=2 carte=58 boeufs=1
+SCORE joueur=1 total=31
+SCORE joueur=2 total=12
+TOUR num=6
+DEMANDER_CARTE joueur=1 time=56364185
+REPONSE_CARTE joueur=1 time=56364928
+JOUE joueur=1 carte=54 boeufs=1
+DEMANDER_CARTE joueur=2 time=56364928
+REPONSE_CARTE joueur=2 time=56364928
+JOUE joueur=2 carte=4 boeufs=1
+SCORE joueur=1 total=31
+SCORE joueur=2 total=14
+TOUR num=7
+DEMANDER_CARTE joueur=1 time=56364929
+REPONSE_CARTE joueur=1 time=56365747
+JOUE joueur=1 carte=80 boeufs=3
+DEMANDER_CARTE joueur=2 time=56365747
+REPONSE_CARTE joueur=2 time=56365747
+JOUE joueur=2 carte=11 boeufs=5
+SCORE joueur=1 total=31
+SCORE joueur=2 total=16
+TOUR num=8
+DEMANDER_CARTE joueur=1 time=56365748
+REPONSE_CARTE joueur=1 time=56366545
+JOUE joueur=1 carte=89 boeufs=1
+DEMANDER_CARTE joueur=2 time=56366545
+REPONSE_CARTE joueur=2 time=56366545
+JOUE joueur=2 carte=19 boeufs=1
+SCORE joueur=1 total=31
+SCORE joueur=2 total=16
+TOUR num=9
+DEMANDER_CARTE joueur=1 time=56366545
+REPONSE_CARTE joueur=1 time=56367654
+JOUE joueur=1 carte=56 boeufs=1
+DEMANDER_CARTE joueur=2 time=56367654
+REPONSE_CARTE joueur=2 time=56367654
+JOUE joueur=2 carte=33 boeufs=5
+SCORE joueur=1 total=31
+SCORE joueur=2 total=16
+PARTIE_END gagnant=2 avec le score de 16

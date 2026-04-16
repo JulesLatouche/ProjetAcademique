@@ -1,0 +1,4 @@
+/home/basti/infol3/SystemEtReseau/projet/cmake-build-debug/CMakeFiles/serveur.dir
+/home/basti/infol3/SystemEtReseau/projet/cmake-build-debug/CMakeFiles/client.dir
+/home/basti/infol3/SystemEtReseau/projet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/basti/infol3/SystemEtReseau/projet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

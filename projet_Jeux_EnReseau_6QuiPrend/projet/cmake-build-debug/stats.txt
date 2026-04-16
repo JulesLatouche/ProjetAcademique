@@ -1,0 +1,13 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\title{statistique de la game}
+\date{}
+\begin{document}
+\maketitle
+\section*{resumer}
+Statistiques
+Joueur 1
+  Points : 9
+  Victoires : 0
+  Moyenne : 9
+  Cartes jouées : 

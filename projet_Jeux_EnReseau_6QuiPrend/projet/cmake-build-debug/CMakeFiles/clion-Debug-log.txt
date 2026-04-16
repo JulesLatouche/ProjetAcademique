@@ -1,0 +1,4 @@
+C:\Users\basti\AppData\Local\JetBrains\CLion2025.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2025.2.4/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S /home/basti/infol3/SystemEtReseau/projet -B /home/basti/infol3/SystemEtReseau/projet/cmake-build-debug
+-- Configuring done (2.2s)
+-- Generating done (0.2s)
+-- Build files have been written to: /home/basti/infol3/SystemEtReseau/projet/cmake-build-debug

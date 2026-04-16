@@ -1,0 +1,7 @@
+#!/bin/sh
+
+awk -f stats.awk game.log > stats.tex
+pdflatex stats.tex
+
+
+echo "Stats générées dans stats.pdf"
